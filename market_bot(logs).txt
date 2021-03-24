@@ -1,0 +1,63 @@
+A request to the Telegram API was unsuccessful. Error code: 400 Description: Bad Request: chat not found
+time : 2020-10-16 18:21:31.943707
+
+HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1024091588:AAFYiRd5sm5z4Ol2aF1lxFqayR8o1XNxIo0/getUpdates?offset=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7fed51daf0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) . Time : 2020-10-16 19:56:20.546416
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) . Time : 2020-10-16 20:46:28.391451
+
+HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1024091588:AAFYiRd5sm5z4Ol2aF1lxFqayR8o1XNxIo0/getUpdates?offset=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd09caa8af0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) . Time : 2020-10-16 20:47:02.002889
+
+HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1024091588:AAFYiRd5sm5z4Ol2aF1lxFqayR8o1XNxIo0/getUpdates?offset=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f678821aaf0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) . Time : 2020-10-16 20:47:16.802978
+
+HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1024091588:AAFYiRd5sm5z4Ol2aF1lxFqayR8o1XNxIo0/getUpdates?offset=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f179d54b9a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) . Time : 2020-10-17 19:18:22.439240
+
+HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1024091588:AAFYiRd5sm5z4Ol2aF1lxFqayR8o1XNxIo0/getUpdates?offset=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9d8220fa90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')) . Time : 2020-10-17 19:18:26.502527
+
+1064 . Time : 2020-10-18 10:55:35.881672
+
+1064 . Time : 2020-10-18 10:55:43.900354
+
+1064 . Time : 2020-10-18 10:55:45.117910
+
+1064 . Time : 2020-10-18 10:55:46.734596
+
+1064 . Time : 2020-10-18 10:55:51.521342
+
+1064 . Time : 2020-10-18 10:55:52.741339
+
+1064 . Time : 2020-10-18 10:55:53.875712
+
+1064 . Time : 2020-10-18 10:56:31.200168
+
+1064 . Time : 2020-10-18 10:56:34.442365
+
+1064 . Time : 2020-10-18 10:56:36.936001
+
+1064 . Time : 2020-10-18 10:56:39.123379
+
+1064 . Time : 2020-10-18 10:56:41.097452
+
+1064 . Time : 2020-10-18 10:56:43.410269
+
+1064 . Time : 2020-10-18 10:56:45.967394
+
+1064 . Time : 2020-10-18 10:56:47.389059
+
+1064 . Time : 2020-10-18 10:56:48.888018
+
+1064 . Time : 2020-10-18 10:56:51.856343
+
+1064 . Time : 2020-10-18 10:56:53.500632
+
+1064 . Time : 2020-10-18 10:56:54.960802
+
+1064 . Time : 2020-10-18 10:56:57.815489
+
+1064 . Time : 2020-10-18 10:57:00.420049
+
+1064 . Time : 2020-10-18 10:57:02.040726
+
+1064 . Time : 2020-10-18 21:18:11.310907
+
+1064 . Time : 2020-10-18 21:26:44.460283
+

@@ -1,0 +1,3 @@
+CREATE USER 'telegrambotadmin'@'localhost' IDENTIFIED BY 'botparol00115566';
+GRANT ALL PRIVILEGES ON * . * TO 'telegrambotadmin'@'localhost';
+CREATE DATABASE market_bot;
